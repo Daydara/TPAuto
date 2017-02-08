@@ -1,0 +1,78 @@
+html, body
+{
+    margin: 0;
+    padding: 0;
+}
+/*Image Voiture du Header*/
+.voiture {
+	width: 100%;
+	height: 50%;
+	padding: 0;
+	float: right;
+}
+
+.voiture2 {
+	width: 100%;
+	height: 50%;
+	padding: 0;
+	float: right;
+}
+
+nav
+{ 
+    width: 100%;
+    height: 45%;
+    background-color: #BCCACF;  
+}
+
+ul
+{
+    margin-top: 0;
+    padding-top: 1%;
+}
+
+ul li
+{
+    margin-top: 0;
+    border-left: 2px solid blue;
+    padding-left: 5px;
+    display: inline;
+    list-style: none;
+}
+
+a
+{
+    margin-top: 0;
+    font-weight: bold;
+    color: #E65E01;
+    text-decoration: none;
+}
+
+.acc
+{
+    color: #124495;
+}
+
+main {
+	background: #EFECCA;
+	width: 50%;
+	height: 300px;
+	margin: 20px;
+}
+
+#sec1 {
+	float: left;
+	width: 650px;
+}
+
+.title {
+	color: orange;
+}
+
+.metadata {
+	text-align: right;
+}
+
+.man{
+	float: left;
+
